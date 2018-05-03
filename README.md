@@ -1,0 +1,1 @@
+Note: While these notebooks do demonstrate the process of topic modeling, they are actually indended to reveal some of the *failures* of topic modeling.  Therefore, you'll notice that the topic models are not very coherent and this is by design.
